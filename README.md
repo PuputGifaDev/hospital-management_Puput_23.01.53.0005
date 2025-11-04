@@ -6,7 +6,7 @@
 # Penjelasan Program  Sistem Manajemen Rumah Sakit
 
 # Ringkasan Eksekutif
-Sistem Manajemen Rumah Sakit ini merupakan platform terintegrasi yang dirancang untuk mengelola seluruh operasional rumah sakit secara digital. Sistem ini mencakup modul lengkap mulai dari pendaftaran pasien, rekam medis, manajemen dokter, hingga pengelolaan obat.
+Sistem Manajemen Rumah Sakit ini merupakan platform terintegrasi yang dirancang untuk mengelola operasional rumah sakit secara digital. Sistem ini mencakup modul lengkap mulai dari pendaftaran pasien, rekam medis, manajemen dokter, hingga pengelolaan obat.
 
 # Fitur Utama Sistem
 
