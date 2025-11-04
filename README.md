@@ -33,12 +33,6 @@ Sistem menghitung pendapatan dari tiga sumber utama:
 - Penjualan Obat: Resep dan penjualan obat kepada pasien
 - Rawat Inap: Biaya kamar berdasarkan kelas dan durasi
 
-# Laporan Periodik
-- Filter laporan berdasarkan rentang tanggal tertentu
-- Visualisasi data dengan chart dan grafik pie
-- Breakdown persentase setiap sumber pendapatan
-- Kemampuan cetak laporan untuk kebutuhan administrasi
-
 # Keunggulan Sistem
 
 # Efisiensi Operasional
